@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Statistics & Operations Research at the University of North Carolina at Chapel Hill. My current work involves the development of novel methods in spatial statistics and extreme value theory, with applications to the modeling of storm-surge events on the Eastern Seaboard. I earned my M.A. in Mathematical Statistics from Wake Forest University and my B.S. in Environmental Studies from the University of North Carolina at Asheville.
+I am a Ph.D. Candidate in the Department of Statistics & Operations Research at the University of North Carolina (UNC) Chapel Hill. Before coming to Chapel Hill I earned an M.A. in Mathematical Statistics at Wake Forest Universty and a B.S. in Environmental Studies at UNC Asheville.
+
+My current research interests include: extreme value theory, spatial statistics and statistical machine learning.
 
 For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 12/14/2021).
