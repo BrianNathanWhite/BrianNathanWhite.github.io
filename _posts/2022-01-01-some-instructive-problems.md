@@ -10,3 +10,5 @@ tags:
 ---
 
 This is a post where I go over some of the problems I encountered during my first year course-work at UNC. 
+
+'''code'''
