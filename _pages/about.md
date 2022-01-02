@@ -12,4 +12,4 @@ I am a Ph.D. student in the Department of Statistics & Operations Research at UN
 
 My research interests include extreme value theory, spatial statistics and statistical machine learning. At the moment, I am developing a spatial extremes model for storm surge events in the Eastern Seaboard with my advisor, Richard L. Smith, in collaboration with the Renaissance Computing Institute [(RENCI)](https://renci.org/) at UNC.
 
-For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 12/14/2021).
+For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 1/1/2022).
