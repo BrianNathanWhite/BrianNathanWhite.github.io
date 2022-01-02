@@ -1,7 +1,7 @@
 ---
 title: 'Some instructive problems'
 date: 2022-01-01
-permalink: /posts/2022/01/test/
+permalink: /posts/2022/01/some-instructive-problems/
 excerpt_separator: <!--more-->
 toc: true
 tags:
