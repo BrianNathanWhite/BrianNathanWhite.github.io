@@ -1,7 +1,7 @@
 ---
 title: 'A fun problem'
 date: 2022-01-01
-permalink: /posts/2012/08/first-post/
+permalink: /posts/first-post/
 tags:
   - statistical theory
   - chi-squared
