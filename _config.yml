@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 search                   : true
-title                    : "Brian N. White"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "About"
+name                     : &name "Brian N. White"
 description              : &description "personal description"
 url                      : https://BrianNathanWhite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
