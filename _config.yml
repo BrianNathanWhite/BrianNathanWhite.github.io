@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 search                   : true
-title                    : "About"
+title                    : "Brian N. White"
 title_separator          : "-"
 name                     : &name "Brian N. White"
 description              : &description "personal description"
