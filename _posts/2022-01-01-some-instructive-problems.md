@@ -14,6 +14,10 @@ In this post, for the benefit of my future self and stray readers, I'll go over 
 [Problem 1](/images/problems/p1.pdf)
 
   Topic: Random matrices, normal, chi-sqaured distributions.
+  
+[Problem 2](/images/problems/p2.pdf)
+
+  Topic: Jensen's inequality, order statistics, minimization.
 
 
 
