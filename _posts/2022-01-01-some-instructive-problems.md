@@ -17,7 +17,7 @@ In this post, for the benefit of my future self and stray readers, I'll go over 
   
 [Problem 2](/images/problems/p2.pdf)
 
-  Topic: Jensen's inequality, order statistics, minimization.
+  Topic: Jensen's inequality, order statistics, bounds.
 
 
 
