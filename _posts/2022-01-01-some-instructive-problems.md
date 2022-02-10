@@ -9,7 +9,7 @@ tags:
   - problem solving
 ---
 
-In this post, for the benefit of my future self and stray readers, I'll go over some problems I found instructive during my first year of course-work at UNC. My goal is to add one new problem per day so check back often!
+In this post, for the benefit of my future self and stray readers, I'll go over some problems I found instructive during my first year of course-work at UNC. Will add more problems as time allows.
 
 [Problem 1](/images/problems/p1.pdf)
 
