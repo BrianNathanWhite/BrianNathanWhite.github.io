@@ -13,6 +13,6 @@ My research interests include extreme value theory, spatial statistics and envir
 
 This work is in collaboration with the Renaissance Computing Institute [(RENCI)](https://renci.org/) at UNC and my research advisor [Richard L. Smith](https://sph.unc.edu/adv_profile/richard-smith-phd/.)
 
-When I'm not doing research you can find me walking my Australian Shepherd Roo, playing piano or any engaged in any number of outdoor activities!
-
 For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 1/1/2022).
+
+These days, when I'm not doing research, you can find me walking my Australian Shepherd, playing piano, jogging or bouldering!
