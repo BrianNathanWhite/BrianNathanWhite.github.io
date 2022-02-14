@@ -13,4 +13,4 @@ My research interests include extreme value theory, spatial statistics and envir
 
 For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 1/1/2022).
 
-These days, when I'm not doing research, you can find me walking my Australian Shepherd, playing piano or bouldering!
+These days, when I'm not doing research, you can find me walking my Australian Shepherd Roo, playing piano or bouldering!
