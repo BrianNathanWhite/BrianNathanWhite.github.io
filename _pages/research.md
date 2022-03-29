@@ -1,9 +1,8 @@
 ---
-layout: archive
-title: "Research"
+---
 permalink: /research/
-author_profile: true
-header:
+title: "Research"
+---
 ---
 
 Not my researc: Just a place holder for now.
