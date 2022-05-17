@@ -7,3 +7,5 @@ My current work involves the development and use of statistical models to infer 
 
 Slides from a recent 5 minute lighting talk: [Spatial Extreme Value Analysis of ADCIRC Reanalysis Time-Series Data](/images/research/5min_coastal.pdf)
 
+Figures from a spatial analysis: [100-Year-Return Level Heat Map for ADCIRC Reconstruction of Daily Mean Sea-Level Along the U.S. East Coast](/images/research/ADCIRC-heatmap.html)
+
