@@ -7,4 +7,10 @@ My current work involves the development and use of statistical models to infer 
 
 [100-Year-Return Level Heat Map for ADCIRC Reconstruction of Daily Mean Sea-Level Along the U.S. East Coast](images/research/ADCIRC-heatmap.html)
 
+[100-Year-Return Level Surface or ADCIRC Reconstruction of Daily Mean Sea-Level Along the U.S. East Coast (version 1)](images/research/100-year-return-level-surface-ADCIRC-a.html)
+
+[100-Year-Return Level Surface or ADCIRC Reconstruction of Daily Mean Sea-Level Along the U.S. East Coast (version 2)](images/research/100-year-return-level-surface-ADCIRC-b.html)
+
+
+
 
