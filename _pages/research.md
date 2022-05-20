@@ -5,6 +5,8 @@ title: "Research"
 
 My current work involves the development and use of statistical models to infer long term spatio-temporal trends in environmental extremes (e.g. heat waves, sea surges) under different climate-change scenarios. This work is in collaboration with the Renaissance Computing Institute [(RENCI)](https://renci.org/) at UNC and my research advisor [Richard L. Smith](https://sph.unc.edu/adv_profile/richard-smith-phd/.).
 
+A recent presentation on my work modeling the spatial extremes of coastal (U.S. East) sea-level time-series:
+
 [DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-value-analysis-reconstructed-coastal-sealevel-timeseries.pdf)
 
 Some interactive and animated figures from the presentation above:
