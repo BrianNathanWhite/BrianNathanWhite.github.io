@@ -7,6 +7,8 @@ My current work involves the development and use of statistical models to infer 
 
 [DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-value-analysis-reconstructed-coastal-sealevel-timeseries.pdf)
 
+Some interactive and animated figures from the presentation above:
+
 [100-Year-Return Level Heat Map for Yearly (Detided Daily Mean) Sea-Level Maxima Along the U.S. East Coast](/images/research/reanalysis-heatmap.html)
 
 [100-Year-Return Level Surface for Yearly (Detided Daily Mean) Sea-Level Maxima Along the U.S. East Coast (Version 1)](/images/research/100-return-level-surface-a.html)
