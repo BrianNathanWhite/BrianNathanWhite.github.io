@@ -11,6 +11,6 @@ My current work involves the development and use of statistical models to infer 
 
 [100-Year-Return Level Surface for Yearly (Detided Daily Mean) Sea-Level Maxima Along the U.S. East Coast (Version 2)](/images/research/100-return-level-surface-b.html)
 
-[Observed (NOAA) Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-ADCIRC-wrightsville.gif)
+[Observed (NOAA) Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-detided-ADCIRC-wrighstville.gif)
 
 
