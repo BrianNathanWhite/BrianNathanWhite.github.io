@@ -9,7 +9,7 @@ I am also a member of the [Dynamics of Extreme Events People and Places (DEEPP)]
 
 A recent presentation on my work modeling the spatial extremes of coastal (U.S. East) sea-level time-series:
 
-[DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-value-analysis-reconstructed-coastal-sealevel-timeseries.pdf)
+[DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-value-analysis-of-reconstructed-coastal-sea-level-timeseries.pdf)
 
 Some interactive and animated figures from the presentation above:
 
