@@ -25,6 +25,5 @@ Some interactive and animated figures from the presentation above:
 
 ![ADCIRC Reconstruction of Detided Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-ADCIRC-wrighstville.gif)
 
-test
 
 
