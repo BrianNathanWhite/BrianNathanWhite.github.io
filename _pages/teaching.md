@@ -19,11 +19,11 @@ I grade, lead study sessions, proctor exams, hold office hours and answer studen
 
 *Wake Forest University*
 
-- STAT 212: Statistical Models (Fall 2019 & Spring 2020)
+- STA 112: Introduction to Regression & Data Science (Fall 2019 & Spring 2020)
 
-- STAT 111: Introductory Probability & Statistics (Spring 2019 & Summer 2019, Spring 2020)
+- STA 111: Elementary Probability & Statistics (Spring 2019 & Summer 2019)
 
-- MATH 111: Calculus I (Fall 2018)
+- MATH 111: Calculus with Analytic Geometry (Fall 2018)
 
 *The University of North Carolina at Asheville*
 
