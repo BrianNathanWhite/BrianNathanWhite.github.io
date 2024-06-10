@@ -26,7 +26,7 @@ Some interactive and animated figures from the presentation above:
 
 # Publications #
 
- ## 2024 ## 
+## 2024 ## 
 
 [1] Estadt AT, **White BN**, Ricks JM, Lancaster KE, Hepler S, Miller WC, Kline D. The impact of fentanyl on state- and county-level psychostimulant and cocaine overdose death rates by race in Ohio from 2010 to 2020: a time series and spatiotemporal analysis. Harm Reduct J. 2024 Jan 17;21(1):13. doi: 10.1186/s12954-024-00936-9. PMID: 38233924; PMCID: PMC10792830.
 
@@ -35,3 +35,6 @@ Some interactive and animated figures from the presentation above:
 [3] Vesely BD, Kipp JA, Lance TA, **White BN**, Medda AW, Scott AT. BMI influence on total ankle arthroplasty outcomes: A systematic review. Foot & Ankle Surgery: Techniques, Reports & Cases. 2024 Mar 24; Volume 4, Issue 2. doi: https://doi.org/10.1016/j.fastrc.2024.100377.
 
 [4] Fabian SB, Adkins EW, **White BN**, Kirse DJ, Kiell EP. Temporal trends in BAHA softband wear time among pediatric patients. International Journal of Pediatric Otorhinolaryngology. Volume 182. 2024. 112000. ISSN 0165-5876. https://doi.org/10.1016/j.ijporl.2024.112000.
+
+## Abstracts ##
+[1] Lassiter R, **White BN**, Skelton JA, Ip E, Vitolins M, Brown CL. Parental concerns about tap water associated with children’s increased consumption of sugar-sweetened beverages. Pediatric Academic Societies Meeting. Toronto, CA. May 2024. Platform Presentation.
