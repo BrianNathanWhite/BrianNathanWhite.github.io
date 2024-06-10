@@ -24,7 +24,9 @@ Some interactive and animated figures from the presentation above:
 ![ADCIRC Reconstruction of Detided Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-ADCIRC-wrighstville.gif)
 
 
-*Publications*
+**Publications**
+
+*2024*
 
 [1] Estadt AT, **White BN**, Ricks JM, Lancaster KE, Hepler S, Miller WC, Kline D. The impact of fentanyl on state- and county-level psychostimulant and cocaine overdose death rates by race in Ohio from 2010 to 2020: a time series and spatiotemporal analysis. Harm Reduct J. 2024 Jan 17;21(1):13. doi: 10.1186/s12954-024-00936-9. PMID: 38233924; PMCID: PMC10792830.
 
