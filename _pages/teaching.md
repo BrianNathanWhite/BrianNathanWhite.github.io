@@ -5,7 +5,13 @@ title: "Teaching"
 
 ## Instructional/Teaching Assistantships
 
-I grade, lead study sessions, proctor exams, hold office hours and answer student questions for a variety of courses in the Department of Statistics and Operations Research at UNC. See course history below.
+I grade, lead study sessions, proctor exams, hold office hours and answer student questions for a variety of courses in the Department of Statistics and Operations Research at UNC and the Wake Forest School of Medicine. See course history below.
+
+*Wake Forest School of Medicine*
+
+-THSS 732: Statistical Modeling (Spring 2024)
+
+-THSS 730: Introduction to Biostatistics (Fall 2023)
 
 *The University of North Carolina at Chapel Hill*
 
@@ -15,7 +21,9 @@ I grade, lead study sessions, proctor exams, hold office hours and answer studen
     
 - STOR 455: Methods of Data Analysis (Fall 2021)
    
-- STOR 155: Intro to Data Models & Inference (Spring & Summer 2021)
+- STOR 155: Intro to Data Models & Inference (Spring & Summer 2021, Spring & Fall 2023, Spring 2024)
+      -104 students
+      -Gave lecture on Bernoulli trials and consequent distributions on 2024/03/27
 
 *Wake Forest University*
 
