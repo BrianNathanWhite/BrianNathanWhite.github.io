@@ -13,17 +13,6 @@ A recent presentation on my work modeling the spatial extremes of coastal (U.S. 
 
 [DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-value-analysis-of-reconstructed-coastal-sea-level-timeseries.pdf)
 
-Some interactive and animated figures from the presentation above:
-
-[100-Year-Return Level Heat Map for Yearly (Detided Daily Mean) Sea-Level Maxima Along the U.S. East Coast](/images/research/reanalysis-heatmap.html)
-
-[100-Year-Return Level Surface for Yearly (Detided Daily Mean) Sea-Level Maxima Along the U.S. East Coast](/images/research/100-return-level-surface-b.html)
-
-![ADCIRC Reconstruction of Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-detided-ADCIRC-wrighstville.gif)
-
-![ADCIRC Reconstruction of Detided Hourly Sea-Level at Wrightsville Beach Over a 40-Year Period](/images/research/hourly-year-ADCIRC-wrighstville.gif)
-
-
 # Publications #
 
 ## 2024 ## 
