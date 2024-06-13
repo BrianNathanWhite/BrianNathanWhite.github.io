@@ -3,14 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-<!Generally speaking, I am interested in the development and use of statistical <!methods for biological/environmental problems.
- 
-<!This work is in collaboration with the Renaissance Computing Institute [(RENCI)]<!(https://renci.org/) at UNC and my research advisor [Richard L. Smith]<!(https://sph.unc.edu/adv_profile/richard-smith-phd/.).
-
-<! A recent presentation on my work modeling the spatial extremes of coastal (U.S. <!East) sea-level time-series:
-
-<![DEEPP Presentation (2022-05-20)](/images/research/multivariate-spatial-extreme-<!value-analysis-of-reconstructed-coastal-sea-level-timeseries.pdf)
-
 # Publications #
 
 ## 2024 ## 
