@@ -20,7 +20,7 @@ I grade, lead study sessions, proctor exams, hold office hours and answer studen
 ---
 
 - STOR 565: Machine Learning (Spring 2022 & Fall 2020)
-    - 62 Students.
+    - 62 students
     - Gave lecture on tidymodels on 2022/03/29: [tidymodels](/images/lectures/presentation.html)
     
 - STOR 455: Methods of Data Analysis (Fall 2021)
