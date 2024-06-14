@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-## Dissertation Research ##
+## Dissertation ##
 
 My dissertation is centered on spatial extremes and includes the following chapters:
 
