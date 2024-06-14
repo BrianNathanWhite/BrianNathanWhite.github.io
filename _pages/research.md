@@ -12,8 +12,8 @@ My dissertation is centered on spatial extremes and concerns the following topic
 3. *Vecchia Approximation for Spatial Extremes*
 
 <div style="text-align: center;">
-  <p><em>Estimated 100-year sea-levels along the U.S. East Coast</em></p>
   <img src="/images/research/combined_100yrRL.png" alt="test">
+  <p><em> Jointly estimated simulated and observed 100-year sea-levels along the U.S. East Coast</em></p>
 </div>
 
 ## Medical Research ##
