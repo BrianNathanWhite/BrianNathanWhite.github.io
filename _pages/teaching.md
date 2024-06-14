@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching & Service"
+title: "Professional Service & Teaching"
 ---
 
 ## Professional Service
