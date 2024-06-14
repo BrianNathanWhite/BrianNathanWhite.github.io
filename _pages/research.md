@@ -5,6 +5,8 @@ title: "Research"
 
 ## Dissertation ##
 
+---
+
 My dissertation is centered on spatial extremes and concerns the following topics:
 
 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Gaussian Latent Process*
@@ -13,9 +15,13 @@ My dissertation is centered on spatial extremes and concerns the following topic
 
 ## OpenLong Project ##
 
+---
+
 In addition to my dissertation work, I develop **OpenLong**, an open-source R package that harmonizes commonly used longitudinal data sets on aging. OpenLong facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
 
 ## Publications ##
+
+---
 
 ### 2024 ###
 
@@ -28,4 +34,9 @@ In addition to my dissertation work, I develop **OpenLong**, an open-source R pa
 [4] Fabian SB, Adkins EW, **White BN**, Kirse DJ, Kiell EP. Temporal trends in BAHA softband wear time among pediatric patients. International Journal of Pediatric Otorhinolaryngology. Volume 182. 2024. 112000. ISSN 0165-5876. https://doi.org/10.1016/j.ijporl.2024.112000.
 
 ## Abstracts ##
+
+---
+
 [1] Lassiter R, **White BN**, Skelton JA, Ip E, Vitolins M, Brown CL. Parental concerns about tap water associated with children’s increased consumption of sugar-sweetened beverages. Pediatric Academic Societies Meeting. Toronto, CA. May 2024. Platform Presentation.
+
+[2]  Sex-Specific Trends in the Use of Temporary Mechanical Circulatory Support in Patients Listed for Orthotopic Heart Transplant Before and After The UNOS Allocation System Change; N. Cyrille1, R. Garcia1, B. N. White2, D. S. Danford1, L. Harmon1, S. Bernardo1, H. Rose1, S. Patel3, A. D. DeVore4, S. Nandkeolyar1, J. Mishkin1. 1Atrium Health Carolinas Med Center, Charlotte, NC, 2Wake Forest University School of Medicine, Winston Salem, NC, 3Montefiore-Einstein, Bronx, NY, 4Duke University, Raleigh, NC
