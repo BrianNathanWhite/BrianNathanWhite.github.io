@@ -1,7 +1,23 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching & Service"
 ---
+
+## Professional Service
+
+### Wake Forest School of Medicine
+
+---
+
+ - Hiring Committees: Served on hiring committees for biostatistician positions at Wake Forest School of Medicine, participating in candidate pre-screening, evaluation and interviews.
+
+### The University of North Carolina at Chapel Hill
+
+ - Mentored incomming Ph.D. students and provided prospective students with advice.
+
+### Wake Forest University
+
+ - Served on the Graduate Honor Council during the 2019-2020 academic year.
 
 ## Instructional/Teaching Assistantships
 
