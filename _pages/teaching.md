@@ -5,7 +5,7 @@ title: "Teaching"
 
 ## Instructional/Teaching Assistantships
 
-I grade, lead study sessions, proctor exams and hold office hours for a variety of courses in the Department of Statistics and Operations Research at UNC and the Wake Forest School of Medicine. 
+I grade, lead study sessions, proctor exams and hold office hours for a variety of courses in the Department of Statistics and Operations Research at UNC and the [Wake Forest School of Medicine](https://school.wakehealth.edu/departments/biostatistics-and-data-science). 
 
 See course history below.
 
