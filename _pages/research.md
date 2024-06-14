@@ -3,6 +3,18 @@ permalink: /research/
 title: "Research"
 ---
 
+# Dissertation Research #
+
+My dissertation is centered on spatial extremes and includes the following chapters:
+
+1. **Combining Observational and Model Data for Spatial Extremes Through a Multivariate Gaussian Latent Process**
+2. **Forecasting Spatial Extremes Using Climatic Covariates**
+3. **Vecchia Approximation for Spatial Extremes**
+
+# OpenLong Project #
+
+In addition to my dissertation work, I develop **OpenLong**, an open-source package that harmonizes commonly used longitudinal data sets on aging. OpenLong facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
+
 # Publications #
 
 ## 2024 ## 
