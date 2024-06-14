@@ -15,19 +15,19 @@ My dissertation is centered on spatial extremes and concerns the following topic
 
 Currently, my work in the medical school falls into three categories:
 
-### Statistical Consulting ###
+### 1. Statistical Consulting ###
 
 ---
 
 In addition to my dissertation work, I provide study design advice, grant development services and statistical analysis for medical researchers across the WFSM and Atrium Health medical system.
 
-### Spatial Epidemiology ###
+### 2. Spatial Epidemiology ###
 
 ---
 
 I work with Dave Kline & Staci Hepler to develop and implement high-dimensional Bayesian hierarchical models of the opioid epidemic in co-operation with public health officials and medical experts.
 
-### OpenLong Project ###
+### 3. OpenLong Project ###
 
 ---
 
