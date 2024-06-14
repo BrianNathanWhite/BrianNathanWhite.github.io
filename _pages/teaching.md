@@ -9,7 +9,8 @@ title: "Teaching & Service"
 
 ---
 
- - Served on the Spring 2024 hiring committee for staff biostatistician positions at the Wake Forest School of Medicine, participating in candidate pre-screening, evaluation and interviews.
+ - Served on the Spring 2024 hiring committee for staff biostatistician positions participating in candidate pre-screening, evaluation and interviews.
+ - Regularly particpate in group interviews of prospective faculty and staff biostatisticians.
 
 ### The University of North Carolina at Chapel Hill
 
