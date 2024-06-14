@@ -1,6 +1,6 @@
 ---
 permalink: /service/
-title: "Seaching"
+title: "Service"
 ---
 
 ## Professional Service
