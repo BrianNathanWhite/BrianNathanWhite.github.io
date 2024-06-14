@@ -11,15 +11,25 @@ My dissertation is centered on spatial extremes and concerns the following topic
 2. *Forecasting Spatial Extremes Using Climatic Covariates*
 3. *Vecchia Approximation for Spatial Extremes*
 
-## Statistical Consulting ##
+## Medical Research ##
+
+Currently, my work in the medical school falls into three categories:
+
+### Statistical Consulting ###
+
+---
 
 In addition to my dissertation work, I provide study design advice, grant development services and statistical analysis for medical researchers across the WFSM and Atrium Health medical system.
 
-## Spatial Epidemiology ##
+### Spatial Epidemiology ###
+
+---
 
 I work with Dave Kline & Staci Hepler to develop and implement high-dimensional Bayesian hierarchical models of the opioid epidemic in co-operation with public health officials and medical experts.
 
-## OpenLong Project ##
+### OpenLong Project ###
+
+---
 
 I work with Jaime Speiser & Byron Yaeger to develop **OpenLong** an open-source R package that harmonizes commonly used longitudinal data sets on aging. **OpenLong** facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
 
