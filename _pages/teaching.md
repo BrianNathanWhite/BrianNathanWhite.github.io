@@ -26,8 +26,8 @@ I grade, lead study sessions, proctor exams, hold office hours and answer studen
 - STOR 455: Methods of Data Analysis (Fall 2021)
    
 - STOR 155: Intro to Data Models & Inference (Spring & Summer 2021, Spring & Fall 2023, Spring 2024)
-      -104 students
-      -Gave lecture on Bernoulli trials and consequent distributions on 2024/03/27
+    - 104 students
+    - Gave lecture on Bernoulli trials and consequent distributions on 2024/03/27
 
 ### Wake Forest University
 
