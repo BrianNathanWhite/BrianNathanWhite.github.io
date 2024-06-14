@@ -16,7 +16,7 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 - **Programming Languages**: R, SAS, Python, LaTeX, Markdown, MATLAB
 - **Operating Systems**: Linux (PopOS, Ubuntu), MacOS, Windows10
 - **High Performance Computing**: Bash scripting, PuTTY, SLURM job scripting
-- **Machine Learning Frameworks**: Tidymodels, Scikit-learn, Keras
+- **Machine Learning Frameworks**: Tidymodels, scikit-learn, keras
 - **Statistical Modeling**: Bayesian hierarchical modeling, spatial statistics, extreme value theory, causal inference, statistical machine learning
 - **Data Wrangling/Manipulation**: Tidyverse, pandas
 - **Data Visualization**: Ggplot2, gganimate, matplotlib/seaborn
