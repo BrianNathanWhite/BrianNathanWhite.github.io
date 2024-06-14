@@ -11,6 +11,8 @@ I am a biostatistician at the [Wake Forest School of Medicine](https://school.wa
 
 ### Professional Focus
 
+---
+
 My professional interests include (in no particular order):
 
 - Statistical consulting
