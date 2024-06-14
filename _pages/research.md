@@ -19,7 +19,7 @@ Currently, my work in the medical school falls into three categories:
 
 ---
 
-In addition to my dissertation work, I provide study design advice, grant development services and statistical analysis for medical researchers across the WFSM and Atrium Health medical system.
+I provide study design advice, grant development services and statistical analysis for medical researchers across the WFSM and Atrium Health medical system.
 
 ### 2. Spatial Epidemiology ###
 
