@@ -5,7 +5,9 @@ title: "Teaching"
 
 ## Instructional/Teaching Assistantships
 
-I grade, lead study sessions, proctor exams, hold office hours and answer student questions for a variety of courses in the Department of Statistics and Operations Research at UNC and the Wake Forest School of Medicine. See course history below.
+I grade, lead study sessions, proctor exams and hold office hours for a variety of courses in the Department of Statistics and Operations Research at UNC and the Wake Forest School of Medicine. 
+
+See course history below.
 
 ### Wake Forest School of Medicine
 
