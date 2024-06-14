@@ -3,21 +3,21 @@ permalink: /research/
 title: "Research"
 ---
 
-## Dissertation ##
+### Dissertation ###
 
-My dissertation is centered on spatial extremes and includes the following chapters:
+My dissertation is centered on spatial extremes and concerns the following topics:
 
 1. **Combining Observational and Model Data for Spatial Extremes Through a Multivariate Gaussian Latent Process**
 2. **Forecasting Spatial Extremes Using Climatic Covariates**
 3. **Vecchia Approximation for Spatial Extremes**
 
-## OpenLong Project ##
+### OpenLong Project ###
 
-In addition to my dissertation work, I develop **OpenLong**, an open-source package that harmonizes commonly used longitudinal data sets on aging. OpenLong facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
+In addition to my dissertation work, I develop **OpenLong**, an open-source R package that harmonizes commonly used longitudinal data sets on aging. OpenLong facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
 
-## Publications ##
+### Publications ###
 
-### 2024 ### 
+#### 2024 ####
 
 [1] Estadt AT, **White BN**, Ricks JM, Lancaster KE, Hepler S, Miller WC, Kline D. The impact of fentanyl on state- and county-level psychostimulant and cocaine overdose death rates by race in Ohio from 2010 to 2020: a time series and spatiotemporal analysis. Harm Reduct J. 2024 Jan 17;21(1):13. doi: 10.1186/s12954-024-00936-9. PMID: 38233924; PMCID: PMC10792830.
 
