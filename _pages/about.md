@@ -11,7 +11,7 @@ I am a biostatistician at the [Wake Forest School of Medicine](https://school.wa
 
 In addition, I am a Ph.D. candidate in the [Department of Statistics & Operations Research](https://stor.unc.edu/) at UNC Chapel Hill, where my research focuses on the analysis of spatial extremes.
 
-### Technical Skills
+## Technical Skills
 
 - **Programming Languages**: R, SAS, Python, LaTeX, Markdown, MATLAB
 - **Operating Systems**: Linux (PopOS, Ubuntu), MacOS, Windows10
@@ -21,7 +21,7 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 - **Data Visualization**: ggplot2, gganimate
 - **Tools and Platforms**: Rstudio, Jupyter Notebook, Git,
 
-### Certifications
+## Certifications
 
  - CITI Program: Biomedical Investigators and Human Research: Jun 2022 - June 2025 (Credential ID: 49280602)
 
