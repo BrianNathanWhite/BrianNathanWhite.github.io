@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a biostatistician at the [Wake Forest School of Medicine](https://school.wakehealth.edu/departments/biostatistics-and-data-science) with extensive experience in statistical consulting, prediction modeling, spatial statistics and Bayesian hierarchical modeling. 
+I am a biostatistician at the [Wake Forest School of Medicine](https://school.wakehealth.edu/departments/biostatistics-and-data-science) with extensive experience in statistical consulting, prediction modeling, spatial statistics and Bayesian hierarchical modeling in a high performance computing environment. 
 
 In addition, I am a Ph.D. candidate in the [Department of Statistics & Operations Research](https://stor.unc.edu/) at UNC Chapel Hill, where my research focuses on the analysis of spatial extremes.
 
