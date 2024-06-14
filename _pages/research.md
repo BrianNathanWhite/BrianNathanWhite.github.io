@@ -11,8 +11,10 @@ My dissertation is centered on spatial extremes and concerns the following topic
 2. *Forecasting Spatial Extremes Using Climatic Covariates*
 3. *Vecchia Approximation for Spatial Extremes*
 
-                        *Estimated 100-year sea-levels along the U.S. East Coast*
-![test](/images/research/combined_100yrRL.png)
+<div style="text-align: center;">
+  <p><em>Estimated 100-year sea-levels along the U.S. East Coast</em></p>
+  <img src="/images/research/combined_100yrRL.png" alt="test">
+</div>
 
 ## Medical Research ##
 
