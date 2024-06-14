@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a biostatistician at the [Wake Forest School of Medicine](https://school.wakehealth.edu/departments/biostatistics-and-data-science) with extensive experience in statistical consulting, spatial statistics and Bayesian hierarchical modeling in a high performance computing environment. 
+I am a biostatistician at the [Wake Forest School of Medicine](https://school.wakehealth.edu/departments/biostatistics-and-data-science) with extensive experience in statistical consulting, prediction modeling, spatial statistics and Bayesian hierarchical modeling in a high performance computing environment. 
 
 In addition, I am a Ph.D. candidate in the [Department of Statistics & Operations Research](https://stor.unc.edu/) at UNC Chapel Hill, where my research focuses on the analysis of spatial extremes.
 
@@ -17,9 +17,9 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 - **Operating Systems**: Linux (PopOS, Ubuntu), MacOS, Windows10
 - **High Performance Computing**: Bash scripting, PuTTY, SLURM job scripting
 - **Machine Learning Frameworks**: Tidymodels, Scikit-learn, Keras
-- **Statistical Modeling**: Bayesian hierarchical modeling, spatial statistics, extreme value theory, causal inference, statistical machine learning. 
+- **Statistical Modeling**: Bayesian hierarchical modeling, spatial statistics, extreme value theory, causal inference, statistical machine learning
 - **Data Visualization**: ggplot2, gganimate
-- **Tools and Platforms**: Rstudio, Jupyter Notebook, Git,
+- **Tools and Platforms**: Rstudio, Jupyter Notebook, Git
 
 ## Certifications
 
