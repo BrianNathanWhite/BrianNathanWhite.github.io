@@ -13,21 +13,21 @@ See course history below.
 
 ---
 
-- THSS 732: Statistical Modeling (Spring 2024)
+- **Statistical Modeling (THSS 732)**: Spring 2024
 
-- THSS 730: Introduction to Biostatistics (Fall 2023)
+- **Introduction to Biostatistics (THSS 730)**: Fall 2023
 
 ### The University of North Carolina at Chapel Hill
 
 ---
 
-- STOR 565: Machine Learning (Spring 2022 & Fall 2020)
+- **Machine Learning (STOR 565)**: Spring 2022 & Fall 2020
     - 62 students
     - Gave lecture on tidymodels on 2022/03/29: [tidymodels](/images/lectures/presentation.html)
     
-- STOR 455: Methods of Data Analysis (Fall 2021)
+- **Methods of Data Analysis (STOR 455)**: Fall 2021
    
-- STOR 155: Intro to Data Models & Inference (Spring & Summer 2021, Spring & Fall 2023, Spring 2024)
+- **Intro to Data Models & Inference (STOR 155)**: Spring & Summer 2021, Spring & Fall 2023, Spring 2024
     - 104 students
     - Gave lecture on Bernoulli trials and consequent distributions on 2024/03/27
 
@@ -35,14 +35,14 @@ See course history below.
 
 ---
 
-- STA 112: Introduction to Regression & Data Science (Fall 2019 & Spring 2020)
+- **Introduction to Regression & Data Science (STA 112)**: Fall 2019 & Spring 2020
 
-- STA 111: Elementary Probability & Statistics (Spring 2019 & Summer 2019)
+- **Elementary Probability & Statistics (STA 111)**: Spring 2019 & Summer 2019
 
-- MATH 111: Calculus with Analytic Geometry (Fall 2018)
+- **Calculus with Analytic Geometry (MATH 111)**: Fall 2018
 
 ### The University of North Carolina at Asheville
 
 ---
 
-- BIO 134: Experimental Design, Analysis & Presentation (Fall 2017)
+- **Experimental Design, Analysis & Presentation (BIO 134)**: Fall 2017
