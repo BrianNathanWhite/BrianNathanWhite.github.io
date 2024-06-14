@@ -3,11 +3,14 @@ main:
 
   - title: "About"
     url: /about/
+
+  - title: "Research"
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Research"
-    url: /research/
+
+  - title: "Service"
+    url: /service/
     
  
