@@ -11,6 +11,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
 2. *Forecasting Spatial Extremes Using Climatic Covariates*
 3. *Vecchia Approximation for Spatial Extremes*
 
+*Estimated 100-year sea-levels along the U.S. East Coast*
 ![test](/images/research/combined_100yrRL.png)
 
 ## Medical Research ##
@@ -21,7 +22,7 @@ Currently, my work in the medical school falls into three categories:
 
 ---
 
-I provide study design advice, grant development services and statistical analysis for medical researchers across the WFSM and Atrium Health medical system.
+I provide study design advice, grant development services and statistical analysis for medical researchers across the Wake Forest School of Medicine and Atrium Health medical system.
 
 ### 2. Spatial Epidemiology ###
 
