@@ -18,8 +18,9 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 - **High Performance Computing**: Bash scripting, PuTTY, SLURM job scripting
 - **Machine Learning Frameworks**: Tidymodels, Scikit-learn, Keras
 - **Statistical Modeling**: Bayesian hierarchical modeling, spatial statistics, extreme value theory, causal inference, statistical machine learning
+- **Data Wrangling/Manipulation**: tidyverse, pandas
 - **Data Visualization**: ggplot2, gganimate, matplotlib/seaborn
-- **Tools and Platforms**: Rstudio, Jupyter Notebook, Git
+- **IDEs/Version Control**: Rstudio, Jupyter Notebook, Git
 
 ## Certifications
 
