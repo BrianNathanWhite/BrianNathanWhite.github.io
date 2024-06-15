@@ -13,7 +13,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated 100-year sea-levels along the U.S. East Coast</em></p>
+  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast</em></p>
 </div>
 
 ## Medical Research ##
