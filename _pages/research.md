@@ -24,7 +24,7 @@ Currently, my work in the Wake Forest School of Medicine falls into three catego
 
 ---
 
-I provide study design advice, grant development services and statistical analysis for medical researchers across the Wake Forest School of Medicine and Atrium Health medical system.
+I provide study design advice, grant development services and statistical analysis for medical professionals across the Wake Forest School of Medicine and Atrium Health medical system.
 
 ### 2. Spatial Epidemiology ###
 
