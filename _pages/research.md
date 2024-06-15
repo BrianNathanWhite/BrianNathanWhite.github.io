@@ -18,7 +18,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
 
 ## Medical Research ##
 
-Currently, my work in the medical school falls into three categories:
+Currently, my work in the Wake Forest School of Medicine falls into three categories:
 
 ### 1. Statistical Consulting ###
 
