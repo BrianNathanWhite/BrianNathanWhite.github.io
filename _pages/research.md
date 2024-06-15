@@ -10,10 +10,15 @@ My dissertation is centered on spatial extremes and concerns the following topic
 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Gaussian Latent Process*
 2. *Forecasting Spatial Extremes Using Climatic Covariates*
 3. *Vecchia Approximation for Spatial Extremes*
+   
+<div style="text-align: center;">
+  <img src="/images/research/combined_max.gif" alt="test">
+  <p><em> Simulated and obsreved yearly sea-level maxima along the U.S from 1979-2021. East Coast</em></p>
+</div>
 
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated simulated and observed 100-year sea-levels along the U.S. East Coast</em></p>
+  <p><em> Jointly estimated 100-year sea-levels along the U.S. East Coast</em></p>
 </div>
 
 ## Medical Research ##
