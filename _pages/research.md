@@ -7,13 +7,13 @@ title: "Research"
 
 My dissertation is centered on spatial extremes and concerns the following topics:
 
-1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Gaussian Latent Process*
+1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process*
 2. *Forecasting Spatial Extremes Using Climatic Covariates*
 3. *Vecchia Approximation for Spatial Extremes*
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast</em></p>
+  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from multivariate latent Gaussian Process </em></p>
 </div>
 
 ## Medical Research ##
