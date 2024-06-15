@@ -13,7 +13,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from multivariate latent Gaussian Process </em></p>
+  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from a multivariate latent Gaussian Process </em></p>
 </div>
 
 ## Medical Research ##
@@ -36,7 +36,7 @@ I work with Dave Kline & Staci Hepler to develop and implement high-dimensional 
 
 ---
 
-I work with Jaime Speiser & Byron Yaeger to develop **OpenLong** an open-source R package that harmonizes commonly used longitudinal data sets on aging. **OpenLong** facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
+I work with Jaime Speiser & Byron Yaeger to develop **OpenLong**, an open-source R package that harmonizes commonly used longitudinal data sets on aging. **OpenLong** facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
 
 ## Publications ##
 
