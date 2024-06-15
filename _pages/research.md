@@ -50,8 +50,8 @@ I work with Jaime Speiser & Byron Yaeger to develop **OpenLong**, an open-source
 
 [4] Fabian SB, Adkins EW, **White BN**, Kirse DJ, Kiell EP. *Temporal trends in BAHA softband wear time among pediatric patients*. International Journal of Pediatric Otorhinolaryngology. Volume 182. 2024. 112000. ISSN 0165-5876. https://doi.org/10.1016/j.ijporl.2024.112000.
 
-## Abstracts ##
+## Accepted Abstracts ##
 
 [1] Lassiter R, **White BN**, Skelton JA, Ip E, Vitolins M, Brown CL. *Parental concerns about tap water associated with children’s increased consumption of sugar-sweetened beverages*. Pediatric Academic Societies Meeting. Toronto, CA. May 2024. Platform Presentation.
 
-[2] Cyrille N, Garcia R, **White, BN**, Danford DS, Harmon L, Bernardo S, Rose H, Patel S, DeVore AD, Nandkeolyar S, Mishkin J. *Sex-Specific Trends in the Use of Temporary Mechanical Circulatory Support in Patients Listed for Orthotopic Heart Transplant Before and After The UNOS Allocation System Change; International Society of Heart & Lung Transplantation*. 44th Annual Meeting & Scientific Sessions. Prague, Czech Republic. April 2024. Platform Presentation.
+[2] Cyrille N, Garcia R, **White BN**, Danford DS, Harmon L, Bernardo S, Rose H, Patel S, DeVore AD, Nandkeolyar S, Mishkin J. *Sex-Specific Trends in the Use of Temporary Mechanical Circulatory Support in Patients Listed for Orthotopic Heart Transplant Before and After The UNOS Allocation System Change; International Society of Heart & Lung Transplantation*. 44th Annual Meeting & Scientific Sessions. Prague, Czech Republic. April 2024. Platform Presentation.
