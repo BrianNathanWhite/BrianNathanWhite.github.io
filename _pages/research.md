@@ -12,7 +12,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
 3. *Vecchia Approximation for Spatial Extremes*
    
 <div style="text-align: center;">
-  <img src="/images/research/combined_max.gif" alt="test">
+  <img src="/images/research/combined_max.gif" alt="test" width="80%">
   <p><em> Simulated and obsreved yearly sea-level maxima along the U.S from 1979-2021. East Coast</em></p>
 </div>
 
