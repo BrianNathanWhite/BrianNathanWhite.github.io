@@ -32,6 +32,11 @@ I provide study design advice, grant development services and statistical analys
 
 I work with Dave Kline & Staci Hepler to develop and implement high-dimensional Bayesian hierarchical models of the opioid epidemic in co-operation with public health officials and medical experts.
 
+<div style="text-align: center;">
+  <img src="/images/research/shared_comp_c.jpg" alt="test">
+  <p><em> Choropleth maps of shared spatial component analysis for cocaine overdose deaths in Ohio, 2010–2020. Posterior estimates of counties with above average estimates of all cocaine-involved overdose deaths (red) and lower than average estimates (blue), by year, 2010–2020. </em></p>
+</div>
+
 ### 3. OpenLong Project ###
 
 ---
