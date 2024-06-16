@@ -23,7 +23,7 @@ See course history below.
 
 - **Machine Learning (STOR 565)**: Spring 2022 & Fall 2020
   
-Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
+Introduction to the theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
 
 Gave special topic lecture on tidymodels (2022/03/29): [tidymodels](/images/lectures/presentation.html)
     
