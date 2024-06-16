@@ -8,8 +8,16 @@ title: "Research"
 My dissertation is centered on spatial extremes and concerns the following topics:
 
 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process*
-2. *Forecasting Spatial Extremes Using Climatic Covariates*
-3. *Vecchia Approximation for Spatial Extremes*
+
+   Developed a multivariate latent Gaussian process to integrate observational and model data, enhancing the accuracy of spatial extreme value analysis.
+   
+3. *Forecasting Spatial Extremes Using Climatic Covariates*
+
+   Utilized climatic covariates to improve forecasting models for spatial extremes, resulting in more accurate predictions.
+   
+5. *Vecchia Approximation for Spatial Extremes*
+
+   Applied Vecchia approximations to spatial extreme value models, significantly reducing the computational costs associated with large spatial data sets, while maintaining model accuracy.
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
