@@ -22,9 +22,7 @@ See course history below.
 ---
 
 - **Machine Learning (STOR 565)**: Spring 2022 & Fall 2020
-
-  *Course description*
-
+  
 Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
 
     - 62 students
