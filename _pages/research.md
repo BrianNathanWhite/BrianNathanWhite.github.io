@@ -13,7 +13,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
    
 3. *Forecasting Spatial Extremes Using Climatic Covariates*
 
-   Utilized climatic covariates to improve forecasting models for spatial extremes, resulting in more accurate predictions.
+   Utilized climatic covariates to forecast models for spatial extremes under a range of climate change scenarios.
    
 5. *Vecchia Approximation for Spatial Extremes*
 
