@@ -9,7 +9,7 @@ My dissertation is centered on spatial extremes and concerns the following topic
 
 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process*
 
-   Developed a multivariate latent Gaussian process to integrate observational and model data, enhancing the accuracy of spatial extreme value analysis.
+   Developed a multivariate latent Gaussian process to integrate observational and model data, enhancing the accuracy of return level estimates.
    
 3. *Forecasting Spatial Extremes Using Climatic Covariates*
 
