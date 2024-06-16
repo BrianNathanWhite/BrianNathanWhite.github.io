@@ -5,7 +5,7 @@ title: "Research"
 
 ## Dissertation ##
 
-My dissertation is centered on spatial extremes and concerns the following topics:
+I conduct methodological research at the intersection of spatial statistics, extreme value theory and data assimilation. My dissertation work is composed of three parts:
 
 ### 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process* ###
 
