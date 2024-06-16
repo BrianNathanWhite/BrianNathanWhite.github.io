@@ -24,6 +24,10 @@ See course history below.
 - **Machine Learning (STOR 565)**: Spring 2022 & Fall 2020
     - 62 students
     - Gave lecture on tidymodels on 2022/03/29: [tidymodels](/images/lectures/presentation.html)
+
+*Course description*
+
+Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
     
 - **Methods of Data Analysis (STOR 455)**: Fall 2021
    
