@@ -9,7 +9,7 @@ I conduct methodological research at the intersection of spatial statistics, ext
 
 1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process*
 
-   Developed a multivariate latent Gaussian process to integrate observational and model data, enhancing the accuracy of return level estimates.
+   Developed a multivariate spatial extreme value model which integrates observational and model data, enhancing the accuracy of return level estimates.
    
 2. *Forecasting Spatial Extremes Using Climatic Covariates* 
 
