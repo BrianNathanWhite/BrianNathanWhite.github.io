@@ -25,7 +25,7 @@ See course history below.
   
   Introduction to the theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
 
-Gave special topic lecture on tidymodels (2022/03/29): [tidymodels](/images/lectures/presentation.html)
+  Gave special topic lecture on tidymodels (2022/03/29): [tidymodels](/images/lectures/presentation.html)
     
 - **Methods of Data Analysis (STOR 455)**: Fall 2021
 
@@ -35,7 +35,7 @@ Gave special topic lecture on tidymodels (2022/03/29): [tidymodels](/images/lect
 
   Data analysis; correlation and regression; sampling and experimental design; basic probability (random variables, expected values, normal and binomial distributions); hypothesis testing and confidence intervals for means, proportions, and regression parameters; use of spreadsheet software.
 
-Gave lecture on Bernoulli trials and derivative distributions (2024/03/27)
+  Gave lecture on Bernoulli trials and derivative distributions (2024/03/27)
 
 ### Wake Forest University
 
