@@ -34,7 +34,7 @@ I work with Dave Kline & Staci Hepler to develop and implement high-dimensional 
 
 <div style="text-align: center;">
   <img src="/images/research/shared_comp_c.jpg" alt="test">
-  <p style="margin-top: 20px;"><em> Choropleth maps of shared spatial component analysis for cocaine overdose deaths in Ohio, 2010–2020. Posterior estimates of counties with above average estimates of all cocaine-involved overdose deaths (red) and lower than average estimates (blue), by year, 2010–2020. </em></p>
+  <p style="margin-top: 20px;"><em> Choropleth maps of shared spatial component analysis for cocaine overdose deaths in Ohio, 2010–2020. Posterior estimates of counties with above average estimates of all cocaine-involved overdose deaths (red) and lower than average estimates (blue), by year, 2010–2020. The shared component reflects variation and trends common to both racial groups. Highest estimates are seen in urban counties such as those that include Akron, Cincinnati, Cleveland, Columbus, and Dayton </em></p>
 </div>
 
 ### 3. OpenLong Project ###
