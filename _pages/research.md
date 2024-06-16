@@ -21,7 +21,7 @@ I conduct methodological research at the intersection of spatial statistics, ext
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from a multivariate latent Gaussian Process fit on observational and model simulated data (i.e. A 40-year record of spatially indexed hourly sea-level data). </em></p>
+  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from a multivariate latent Gaussian Process fit on observational and model simulated data (i.e. A 40-year record of spatially indexed hourly sea-level data) </em></p>
 </div>
 
 ## Medical Research ##
