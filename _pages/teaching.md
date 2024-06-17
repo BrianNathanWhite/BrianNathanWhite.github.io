@@ -15,7 +15,7 @@ See course history below.
 
 - **Statistical Modeling (THSS 732)**: Spring 2024
 
-  An introduction to the application of common types of generalized linear models. It includes linear regression, ANOVA, logistic regression, and Poisson regression. Additional topics include methods for analyzing longitudinal data including ANCOVA, mixed effects models, and survival analysis. Special topics cover methods for handling missing data and common statistical machine learning algorithms. 
+  An introduction to the application of common types of generalized linear models. Additional topics include methods for analyzing longitudinal data including ANCOVA, mixed effects models, and survival analysis. Special topics cover methods for handling missing data and common statistical machine learning algorithms. 
 
 
 - **Introduction to Biostatistics (THSS 730)**: Fall 2023
