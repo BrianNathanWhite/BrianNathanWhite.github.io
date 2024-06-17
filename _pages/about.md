@@ -26,5 +26,5 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 
  - CITI Program: Biomedical Investigators and Human Research: Jun 2022 - June 2025 (Credential ID: 49280602)
 
-For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 5/1/2022).
+For additional information concerning my education and professional experience see my [resume](/BN_WHITE_resume.pdf) (last updated 6/16/2024).
 
