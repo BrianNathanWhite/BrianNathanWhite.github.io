@@ -15,7 +15,12 @@ See course history below.
 
 - **Statistical Modeling (THSS 732)**: Spring 2024
 
+  An introduction to the application of common types of generalized linear models. It includes linear regression, ANOVA, logistic regression, and Poisson regression. Additional topics include methods for analyzing longitudinal data including ANCOVA, mixed effects models, and survival analysis. Special topics cover methods for handling missing data and common statistical machine learning algorithms. 
+
+
 - **Introduction to Biostatistics (THSS 730)**: Fall 2023
+
+  An introduction to statistical concepts and basic methodologies that are prevalent in biomedical literature. It includes discussion of descriptive statistics, probability, sampling distributions, hypothesis testing, simple linear regression, correlation, one-way analysis of variance, categorical data analysis, logistic regression, survival analysis, and nonparametric methods.
 
 ### The University of North Carolina at Chapel Hill
 
