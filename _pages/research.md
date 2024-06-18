@@ -63,7 +63,7 @@ I work with Jaime Speiser & Byron Yaeger to develop **OpenLong**, an open-source
 
 [4] Fabian SB, Adkins EW, **White BN**, Kirse DJ, Kiell EP. *Temporal trends in BAHA softband wear time among pediatric patients*. International Journal of Pediatric Otorhinolaryngology. Volume 182. 2024. 112000. ISSN 0165-5876. https://doi.org/10.1016/j.ijporl.2024.112000.
 
-### In Review ###
+### Submitted ###
 
 [1] Kline D, **White BN**, Lancaster KE, Egan KL, Murphy E, Miller WC, Hepler SA. *Estimating prevalence of opioid misuse in North Carolina counties from 2016-2021: An integrated abundance model approach.*
 
