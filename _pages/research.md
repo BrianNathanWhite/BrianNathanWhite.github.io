@@ -49,7 +49,7 @@ I work with Dave Kline & Staci Hepler to develop and implement high-dimensional 
 
 ---
 
-I work with Jaime Speiser & Byron Yaeger to develop **OpenLong**, an open-source R package that harmonizes commonly used longitudinal data sets on aging. **OpenLong** facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
+I work with Jaime Speiser & Byron Jaeger to develop **OpenLong**, an open-source R package that harmonizes commonly used longitudinal data sets on aging. **OpenLong** facilitates machine learning benchmark studies, prediction modeling, and meta-analyses, enabling researchers to perform more efficient and accurate analyses.
 
 ## Publications ##
 
