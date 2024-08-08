@@ -63,6 +63,8 @@ I work with Jaime Speiser & Byron Jaeger to develop **OpenLong**, an open-source
 
 [4] Fabian SB, Adkins EW, **White BN**, Kirse DJ, Kiell EP. *Temporal trends in BAHA softband wear time among pediatric patients*. International Journal of Pediatric Otorhinolaryngology. Volume 182. 2024. 112000. ISSN 0165-5876. https://doi.org/10.1016/j.ijporl.2024.112000.
 
+[5] Kipp JA, Vesely BD, Lance TA, **White BN**, Medda AW, Scott AT. Age influence on total ankle arthroplasty outcomes: A Systematic Review. J Foot Ankle Surg. 2024 Aug 3:S1067-2516(24)00170-4. doi: 10.1053/j.jfas.2024.07.013. Epub ahead of print. PMID: 39102942.
+
 ### Submitted ###
 
 [1] Kline D, **White BN**, Lancaster KE, Egan KL, Murphy E, Miller WC, Hepler SA. *Estimating prevalence of opioid misuse in North Carolina counties from 2016-2021: An integrated abundance model approach.*
