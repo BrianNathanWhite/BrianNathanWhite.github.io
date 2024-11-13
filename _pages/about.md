@@ -13,18 +13,16 @@ In addition, I am a Ph.D. candidate in the [Department of Statistics & Operation
 
 ## Technical Skills
 
-- **Programming Languages**: R, SAS, Python, LaTeX, Markdown, MATLAB
-- **Operating Systems**: Linux (PopOS, Ubuntu), MacOS, Windows10
-- **High Performance Computing**: Bash scripting, PuTTY, SLURM job scripting
-- **Machine Learning Frameworks**: Tidymodels, scikit-learn, keras
+- **Programming Languages**: R, Python, SAS, LaTeX, Markdown, MATLAB
+- **Operating Systems**: Linux (PopOS), MacOS, Windows10
+- **High Performance Computing**: ROCm, Bash scripting, SLURM job scripting
+- **Machine Learning Frameworks**: Tidymodels, scikit-learn, pytorch
 - **Statistical Modeling**: Bayesian hierarchical modeling, spatial statistics, extreme value theory, causal inference, survival analysis, meta-analysis, statistical machine learning
 - **Data Wrangling/Manipulation**: Tidyverse, pandas
 - **Data Visualization**: Ggplot2, gganimate, matplotlib/seaborn
-- **IDEs/Version Control**: Rstudio, Jupyter Notebook, Git
+- **IDEs/Version Control**: Rstudio, VSCode, Jupyter Notebook, Git
 
 ## Certifications
 
  - CITI Program: Biomedical Investigators and Human Research: Jun 2022 - June 2025 (Credential ID: 49280602)
-
-For additional information concerning my education and professional experience see my [resume](/resume.pdf) (last updated 2024-06-16).
 
