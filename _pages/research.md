@@ -7,7 +7,7 @@ title: "Research"
 
 I conduct methodological research at the intersection of spatial statistics, extreme value theory and data assimilation. 
 
-<figure class="figure-comparison">
+
   <img src="/images/research/combined_100yrRL.png"
        alt="Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast before and after data integration." />
   <figcaption>
@@ -16,8 +16,6 @@ I conduct methodological research at the intersection of spatial statistics, ext
       <li><strong>Row&nbsp;1:</strong> (A) 3-D Gaussian Process (GP) model fit using only observations; (B) 6-D GP model fit combining observations with simulated model output; (C) ratio <em>B / A</em>.</li>
       <li><strong>Row&nbsp;2:</strong> (D, E) corresponding standard errors; (F) ratio <em>E / D</em>.</li>
     </ul>
-  </figcaption>
-</figure>
 
 ## Medical Research ##
 
