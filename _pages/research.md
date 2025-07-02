@@ -9,9 +9,8 @@ I conduct methodological research at the intersection of spatial statistics, ext
 
 
   <div style="text-align: center;">
-  <img src="/images/research/gev_100rl_map.png"
-       alt="Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast before and after data integration." />
-    <p style="margin-top: 20px;"><em> Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure. (A) 3-D Gaussian Process (GP) model fit using only observations; (B) 6-D GP model fit combining observations with simulated model output; (C) ratio B / A (D, E) corresponding standard errors; (F) ratio <em>E / D </p> 
+  <img src="/images/research/gev_100rl_map.png" alt="test">
+    <p style="margin-top: 20px;"><em> Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast before and after data integration. Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure. (A) 3-D Gaussian Process (GP) model fit using only observations; (B) 6-D GP model fit combining observations with simulated model output; (C) ratio B / A (D, E) corresponding standard errors; (F) ratio <em>E / D </p> 
   </div>
 
 ## Medical Research ##
