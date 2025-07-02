@@ -5,23 +5,20 @@ title: "Research"
 
 ## Dissertation ##
 
-I conduct methodological research at the intersection of spatial statistics, extreme value theory and data assimilation. My dissertation work is composed of three parts:
-
-1. *Combining Observational and Model Data for Spatial Extremes Through a Multivariate Latent Gaussian Process*
-
-   Developed a multivariate spatial extreme value model which integrates observational and model data, enhancing the accuracy of return level estimates.
-   
-2. *Forecasting Spatial Extremes Using Climatic Covariates* 
-
-   Utilized climatic covariates to forecast models for spatial extremes under a range of climate change scenarios.
-   
-3. *Vecchia Approximation for Spatial Extremes*
-
-   Applied Vecchia approximations to spatial extreme value models, significantly reducing the computational costs associated with large spatial data sets, while maintaining model accuracy.
+I conduct methodological research at the intersection of spatial statistics, extreme value theory and data assimilation. 
    
 <div style="text-align: center;">
   <img src="/images/research/combined_100yrRL.png" alt="test">
-  <p><em> Jointly estimated 100-year storm-surge along the U.S. East Coast inferred from a multivariate latent Gaussian Process fit on observational and model simulated data (i.e. A 40-year record of spatially indexed hourly sea-level data) </em></p>
+  <p><em> Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast, before and after data integration."
+     
+<p><strong>Figure&nbsp;X.</strong> Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure.</p>
+    <ol>
+      <li><strong>Row&nbsp;1:</strong> (A) 3-D Gaussian Process (GP) model fit using only observations; (B) 6-D GP model fit combining observations with simulated model output; (C) ratio <em>B / A</em>.</li>
+      <li><strong>Row&nbsp;2:</strong> (D, E) corresponding standard errors; (F) ratio <em>E / D</em>.</li>
+    </ol>
+}
+
+</em></p>
 </div>
 
 ## Medical Research ##
