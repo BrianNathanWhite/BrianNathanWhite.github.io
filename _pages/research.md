@@ -8,7 +8,7 @@ title: "Research"
 I conduct methodological research at the intersection of spatial statistics, extreme value theory and data assimilation. 
 
 
-  <img src="/images/research/combined_100yrRL.png"
+  <img src="/images/research/gev_100rl_map.png"
        alt="Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast before and after data integration." />
     <p><em> Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure.</p>
     <ul>
