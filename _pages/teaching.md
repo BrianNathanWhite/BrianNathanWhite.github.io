@@ -26,6 +26,12 @@ See course history below.
 
 ---
 
+- **Discrete Mathematics for Data Science (STOR 315)**: Spring 2025
+
+An introductory course on Discrete Mathematics. Introduces rigorous mathematical thinking and problem solving, and their applications to real life problems. Basics of logic and proof techniques, discrete structures, functions, sequences, summations, algorithms and complexity, induction, and introductory number theory.
+
+Led two 50 minute recitations twice a week; drafted solution keys, graded and proctored homeworks and exams; held weekly office hours.
+
 - **Machine Learning (STOR 565)**: Spring 2022 & Fall 2020
   
   Introduction to the theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.
