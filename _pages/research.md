@@ -10,8 +10,7 @@ I conduct methodological research at the intersection of spatial statistics, ext
 
   <img src="/images/research/combined_100yrRL.png"
        alt="Heat-map panels comparing spatial fields and standard errors for 100-year detided sea-level estimates along the U.S. East Coast before and after data integration." />
-  <figcaption>
-    <p><strong> Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure.</p>
+    <p><em> Estimated spatial field of 100-year detided sea-level (m) along the U.S. East Coast before and after applying the data-integration procedure.</p>
     <ul>
       <li><strong>Row&nbsp;1:</strong> (A) 3-D Gaussian Process (GP) model fit using only observations; (B) 6-D GP model fit combining observations with simulated model output; (C) ratio <em>B / A</em>.</li>
       <li><strong>Row&nbsp;2:</strong> (D, E) corresponding standard errors; (F) ratio <em>E / D</em>.</li>
